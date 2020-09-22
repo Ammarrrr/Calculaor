@@ -1,0 +1,29 @@
+.main {
+    border: 1px solid black;
+    width: 620px;
+    margin: 0 auto;
+}
+
+.inputField {
+    width: 99%;
+    height: 50px;
+    margin: 5px 0px 5px 1.5px;
+}
+
+.btn {
+    width: 150px;
+    margin: 5px 0px 5px 1.5px;
+    height: 40px;
+}
+
+.btnFull {
+    width: 99%;
+    height: 40px;
+    margin: 5px 0px 5px 1.5px;
+}
+
+.halfbtn {
+    width: 305px;
+    height: 40px;
+    margin: 5px 0px 5px 1.5px;
+}
